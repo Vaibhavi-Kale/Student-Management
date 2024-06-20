@@ -1,4 +1,4 @@
-# Student-Management 
+# Student-Management System
 
 
 The student application in Java is designed to manage and organize student information efficiently, providing a comprehensive system for educational institutions. Each student's profile includes essential details such as Roll No, Name, Email, Date of Birth (dob), and a Photo, ensuring a complete and organized record for each individual. Users can add new student profiles, update existing ones, and remove profiles as needed. The application also allows for searching and retrieving student information quickly, making it easy for administrators and teachers to access and manage student data.
@@ -17,7 +17,7 @@ My this project will definitely help user just by installing Java jdk latest ver
 ## Project Demo
 Click PLAY Button
 
-https://github.com/Vaibhavi-Kale/Digital-Lab-Simulation/assets/169228708/7ecc0f82-a7e3-402a-873e-0001a4298180
+https://github.com/Vaibhavi-Kale/Student-Management-System/assets/169228708/3f2c019b-7313-4688-a327-d8dbe8ee4086
 
 
 
