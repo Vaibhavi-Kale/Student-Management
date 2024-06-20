@@ -163,7 +163,7 @@ public class StudentsForm extends javax.swing.JFrame {
         jTable1 = new javax.swing.JTable();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : VAIBHAVI, YASH, PRATIK, SUJIT");
+        setTitle("Project Created By : Vaibhavi Kale");
         setLocation(new java.awt.Point(100, 0));
         setResizable(false);
 

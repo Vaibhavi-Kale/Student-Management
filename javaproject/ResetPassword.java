@@ -69,7 +69,7 @@ public class ResetPassword extends javax.swing.JFrame {
         emailname = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : VAIBHAVI, YASH, PRATIK, SUJIT");
+        setTitle("Project Created By : Vaibhavi Kale");
         setLocation(new java.awt.Point(400, 100));
         setResizable(false);
 

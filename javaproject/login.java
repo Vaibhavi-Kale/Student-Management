@@ -46,7 +46,7 @@ public class login extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : VAIBHAVI, YASH, PRATIK, SUJIT");
+        setTitle("Project Created By : Vaibhavi Kale");
         setLocation(new java.awt.Point(400, 100));
         setResizable(false);
 
