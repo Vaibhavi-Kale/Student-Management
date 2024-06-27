@@ -1,4 +1,4 @@
-# Student-Management System
+# Student-Record-Management-System
 
 
 The student application in Java is designed to manage and organize student information efficiently, providing a comprehensive system for educational institutions. Each student's profile includes essential details such as Roll No, Name, Email, Date of Birth (dob), and a Photo, ensuring a complete and organized record for each individual. Users can add new student profiles, update existing ones, and remove profiles as needed. The application also allows for searching and retrieving student information quickly, making it easy for administrators and teachers to access and manage student data.
